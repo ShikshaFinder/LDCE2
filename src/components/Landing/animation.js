@@ -1,4 +1,4 @@
-export const slideUp = {
+export const SlideUp = {
     initial: {
         y: 300
     },
