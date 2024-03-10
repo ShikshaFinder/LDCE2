@@ -72,10 +72,16 @@ export default function Index() {
             </span>
             <Magnetic>
               <p>
-                <a href="https://www.instagram.com/ldceofficial/?hl=en" > instagram</a>
+                <a
+                  href="https://www.instagram.com/ldceofficial/?hl=en"
+                  style={{ color: "white", textDecoration: "none" }}
+                >
+                  {" "}
+                  instagram
+                </a>
               </p>
             </Magnetic>
-          
+
             <Magnetic>
               <p>Linkedin</p>
             </Magnetic>
