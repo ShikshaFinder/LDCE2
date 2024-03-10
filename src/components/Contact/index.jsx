@@ -60,7 +60,14 @@ export default function Index() {
             </span>
             <span>
               <h3>Version</h3>
-              <p>2 Trials</p>
+              <p>
+                <a
+                  href="https://ldcollege.netlify.app/"
+                  style={{ color: "white", textDecoration: "none" }}
+                >
+                  2 trials
+                </a>
+              </p>
             </span>
           </div>
           <div>

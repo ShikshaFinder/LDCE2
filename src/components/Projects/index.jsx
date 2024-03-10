@@ -98,7 +98,7 @@ export default function Home() {
       <Rounded>
         <p>
           <a
-            href="ldce.ac.in"
+            href="https://ldce.ac.in/"
             style={{ color: "white", textDecoration: "none" }}
           >
             Visit site

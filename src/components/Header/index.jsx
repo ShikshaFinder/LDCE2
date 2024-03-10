@@ -48,7 +48,14 @@ export default function Index() {
     <>
       <div ref={header} className={styles.header}>
         <div className={styles.logo}>
-          <h1>LDCE</h1>
+          <h1>
+            <a
+              href="https://ldce.ac.in/"
+              style={{ color: "white", textDecoration: "none" }}
+            >
+              LDCE
+            </a>
+          </h1>
         </div>
         <div className={styles.nav}>
           <Magnetic>
