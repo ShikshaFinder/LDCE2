@@ -10,11 +10,11 @@ const slider1 = [
   },
   {
     color: "#d6d7dc",
-    src: "2.jpEg",
+    src: "2.jpeg",
   },
   {
     color: "#e3e3e3",
-    src: "3.jpEg",
+    src: "3.jpeg",
   },
   {
     color: "#21242b",
