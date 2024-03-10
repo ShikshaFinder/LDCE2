@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import styles from './style.module.scss';
 import { motion } from 'framer-motion';
 import { usePathname } from 'next/navigation';
-import { menuSlide } from '../animation';
+import { MenuSlide } from '../animation';
 import Link from './Link';
 import Curve from './Curve';
 import Footer from './Footer';
@@ -33,7 +33,7 @@ export default function Index() {
 
   return (
     <motion.div 
-      variants={menuSlide} 
+      variants={MenuSlide} 
       initial="initial" 
       animate="enter" 
       exit="exit" 
