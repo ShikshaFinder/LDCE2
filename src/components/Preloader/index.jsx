@@ -10,7 +10,7 @@ const words = [
   "Dalpatbhai",
   "College",
   "of Engineering",
-  "LD Collge of Engineering",
+  "LD college of Engineering",
 ];
 
 export default function Index() {
