@@ -49,24 +49,38 @@ export default function Index() {
       <div ref={header} className={styles.header}>
         <div className={styles.logo}>
           <h1>LDCE</h1>
-       
         </div>
         <div className={styles.nav}>
           <Magnetic>
             <div className={styles.el}>
-              <a>Work</a>
+              <a
+                href="https://ldcollege.netlify.app/"
+                style={{ color: "black", textDecoration: "none" }}
+              >
+                History
+              </a>
               <div className={styles.indicator}></div>
             </div>
           </Magnetic>
           <Magnetic>
             <div className={styles.el}>
-              <a>About</a>
+              <a
+                href="https://ldcecreative.netlify.app/"
+                style={{ color: "black", textDecoration: "none" }}
+              >
+                About
+              </a>
               <div className={styles.indicator}></div>
             </div>
           </Magnetic>
           <Magnetic>
             <div className={styles.el}>
-              <a>Contact</a>
+              <a
+                href="https://ldcollege.netlify.app/"
+                style={{ color: "black", textDecoration: "none" }}
+              >
+                Contact
+              </a>
               <div className={styles.indicator}></div>
             </div>
           </Magnetic>
