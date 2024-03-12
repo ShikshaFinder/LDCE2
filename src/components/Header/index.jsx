@@ -83,10 +83,10 @@ export default function Index() {
           <Magnetic>
             <div className={styles.el}>
               <a
-                href="https://ldcollege.netlify.app/"
+                href="/news"
                 style={{ color: "black", textDecoration: "none" }}
               >
-                Contact
+                News
               </a>
               <div className={styles.indicator}></div>
             </div>
